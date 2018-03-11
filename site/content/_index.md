@@ -1,7 +1,7 @@
 ---
 title: Вiтаемо вас
 subtitle: На сайтi «ДУ ННЦ "Інститут кардіології імені академіка М.Д. Стражеска" НАМНУ»
-image: /img/cordiology-medicine.jpg
+image: /img/457457.png
 blurb:
   heading: Головне
   text: >
