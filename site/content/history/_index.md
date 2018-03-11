@@ -1,6 +1,6 @@
 ---
 title: Історія
-image: /img/cardiology.jpg
+image: /img/nano4imaging-mr-wire-cardio.jpg
 values:
   - heading: І. становлення (1936-1941)
     imageUrl: /img/стражеско_микола.jpg
