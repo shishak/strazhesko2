@@ -1,6 +1,9 @@
 ---
-title: Great coffee with a conscience
-subtitle: Support sustainable farming while enjoying a cup
+title: ШАНОВНІ ПАНІ ТА ПАНОВЕ!
+subtitle: >-
+  Ви зайшли на сайт Державної установи «НАЦІОНАЛЬНИЙ НАУКОВИЙ ЦЕНТР «ІНСТИТУТ
+  КАРДІОЛОГІЇ ІМЕНІ АКАДЕМІКА М.Д. СТРАЖЕСКА» НАЦІОНАЛЬНОЇ АКАДЕМІЇ МЕДИЧНИХ
+  НАУК УКРАЇНИ»
 image: /img/001.jpg
 blurb:
   heading: Why Kaldi?
