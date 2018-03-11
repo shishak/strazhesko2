@@ -1,6 +1,6 @@
 ---
 title: Історія Національного наукового центру
-image: /img/46757547.jpg
+image: /img/5685785568.png
 values:
   - heading: Cтановлення (1936-1941)
     imageUrl: /img/6534332.png
