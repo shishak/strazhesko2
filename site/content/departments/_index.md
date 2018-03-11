@@ -1,6 +1,6 @@
 ---
 title: Відділення
-image: /img/my-heart-flutters-1000x600.jpg
+image: /img/credentialing-1500x430.jpg
 heading: Відділення
 description: Відділення
 intro:
