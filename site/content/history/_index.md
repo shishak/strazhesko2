@@ -1,6 +1,6 @@
 ---
 title: Історія
-image: /img/56756765.png
+image: /img/6776547.png
 values:
   - heading: І. становлення (1936-1941)
     imageUrl: /img/стражеско_микола.jpg
