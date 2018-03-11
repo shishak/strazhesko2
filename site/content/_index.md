@@ -1,7 +1,7 @@
 ---
 title: Вiтаемо вас
 subtitle: На сайтi «ДУ ННЦ "Інститут кардіології імені академіка М.Д. Стражеска" НАМНУ»
-image: /img/nano4imaging-mr-wire-cardio.jpg
+image: /img/credentialing-1500x430.jpg
 blurb:
   heading: Головне
   text: >
