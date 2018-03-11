@@ -1,7 +1,7 @@
 ---
 title: Вiтаемо вас
 subtitle: На сайтi «ДУ ННЦ "Інститут кардіології імені академіка М.Д. Стражеска" НАМНУ»
-image: /img/simptomy-aritmii.jpg
+image: /img/cardiology.jpg
 blurb:
   heading: Головне
   text: >
