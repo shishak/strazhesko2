@@ -1,21 +1,49 @@
 ---
-title: Відділення
-image: /img/about-jumbotron.jpg
+title: Історія Інституту Кардіології
+image: /img/006.jpg
 values:
-  - heading: Shade-grown coffee
-    imageUrl: /img/about-shade-grown.jpg
-    text: >
-      Coffee is a small tree or shrub that grows in the forest understory in its
-      wild form, and traditionally was grown commercially under other trees that
-      provided shade. The forest-like structure of shade coffee farms provides
-      habitat for a great number of migratory and resident species.
-  - heading: Single origin
-    imageUrl: /img/about-single-origin.jpg
-    text: >
-      Single-origin coffee is coffee grown within a single known geographic
-      origin. Sometimes, this is a single farm or a specific collection of beans
-      from a single country. The name of the coffee is then usually the place it
-      was grown to whatever degree available.
+  - heading: І. становлення (1936-1941)
+    imageUrl: /img/ strazhesko.png
+    text: |
+      Історія Національного наукового центру «Інститут кардіології іме-
+      ні академіка М.Д. Стражеска» НАМН України починається
+      Постановою Ради народних комісарів УРСР від 10 березня 1936р.,
+      коли у місті Києві з ініціативи
+      академіка Миколи
+      Дмитровича Стражеска, під-
+      триманої Президією Академії
+      наук УРСР, засновано
+      Український інститут клінічної
+      медицини, структура і склад
+      якого забезпечували комп-
+      лексну розробку актуальних
+      проблем внутрішньої меди-
+      цини. Першим директором
+      інституту було призначено
+      академіка М.Д. Стражеска. 
+  - heading: ''
+    imageUrl: /img/museum.png
+    text: |-
+      Згідно з постановою прези-
+      дії Київської міськради
+      від 7 грудня 1935 р., для
+      будівництва інституту відве-
+      дена земельна ділянка
+      на Печерську площею 4 га
+      між вулицями Госпітальною,
+      М а л о - Ш и я н і в с ь к о ю
+      та Щорса. 7 листопада
+      1937 р. пройшла урочиста закладка будівлі головного корпусу
+      та посаджено сад. Будівництво йшло дуже повільно, а у 1938 р.
+      зовсім припинилося.
+      За рішенням Раднаркому УРСР до закінчення будівництва
+      інститут розпочав діяльність на базах клінік інших лікувальних
+      закладів:
+      • двох терапевтичних клінік 1-го Київського медичного інституту;
+      • клініки внутрішніх хвороб Київського інституту удосконалення
+      лікарів;
+      • 1-го терапевтичного відділення Лікарні ім. Жовтневої револю-
+      ції; Київського військового шпиталю. 
   - heading: Sustainable farming
     imageUrl: /img/about-sustainable-farming.jpg
     text: >
