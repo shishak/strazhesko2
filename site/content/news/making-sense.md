@@ -2,7 +2,7 @@
 title: Стражесківські читання «Актуальні питання сучасної кардіології»
 date: 2016-12-17T15:04:10.000Z
 description: '1–2 березня 2018 р., м.Київ'
-image: /img/blog-flavor_wheel.jpg
+image: ''
 ---
 
 The SCAA updated the wheel to reflect the finer nuances needed to describe flavors more precisely. The new descriptions are more detailed and hence allow cuppers to distinguish between more flavors.
