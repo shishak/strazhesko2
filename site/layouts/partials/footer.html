@@ -2,42 +2,64 @@
 
 	<div class="mw7 center pt3">
 
+<!--
 		<div class="measure-narrow center mb4">
 
-			<img src="/img/logo.svg" alt="Kaldi logo" class="db w4 center mb4 br0">
-			<p class="f3 lh-title light-gray b tc mb2">Newsletter subscribe</p>
-			<p>Get awesome news from us in your inbox every two weeks. Be the first to learn about new products.</p>
+ 			<img src="/img/logo.svg" alt="Kaldi logo" class="db w4 center mb4 br0">
+			<p class="f3 lh-title light-gray b tc mb2">Новини iнституту за пiдпискою</p>
+			<p>Отримуйте вчасно новини пiдписавшись на розсилку</p>
 
 			{{ partial "newsletter-form" . }}
 
 		</div>
+-->
 
 		<div class="flex-ns justify-between">
 
 			<div>
-				<h3 class="f4 b lh-title mb1 primary">Kaldi</h3>
+				<h3 class="f4 b lh-title mb1 primary">Загальні відомості</h3>
 				<ul class="mb3">
-					<li><a href="/" class="link">Home</a></li>
-					<li><a href="/products" class="link">Our products</a></li>
-					<li><a href="/values" class="link">About</a></li>
-					<li><a href="/post" class="link">Blog</a></li>
-					<li><a href="/contact" class="link">Contact</a></li>
+					<li><a href="/" class="link">Головна</a></li>
+					<li><a href="/departments" class="link">Відділи</a></li>
+					<li><a href="/history" class="link">Iсторiя</a></li>
+					<li><a href="/post" class="link">Новини</a></li>
+					<li><a href="/contacts" class="link">Контакти</a></li>
+					
+					<li><a href="/experts" class="link">Експертні центри</a></li>
+					<li><a href="/rada" class="link">Спеціалізована вчена рада</a></li>
+
+					
 				</ul>
 			</div>
 
 			<div>
-				<h3 class="f4 b lh-title mb1 primary">Find out more</h3>
+				<h3 class="f4 b lh-title mb1 primary">Інформація для пацієнтів</h3>
 				<ul class="mb3">
-					<li><a href="/post/jamaica-blue/" class="link">Latest offers</a></li>
-					<li><a href="/contact" class="link">Schedule and appointment</a></li>
+					<li><a href="/platni-poslugi" class="link">Платні послуги</a></li>
+					<li><a href="/priyom" class="link">Як потрапити на прийом?</a></li>
+					<li><a href="/appointment" class="link">Онлайн реєстрація</a></li>
+					<li><a href="/hospital" class="link">Госпіталізація</a></li>
+					<li><a href="/recommendations" class="link">Рекомендації</a></li>
+					<li><a href="/zalishki-likiv" class="link">Залишки ліків</a></li>
+					
+					<li><a href="/patient-info" class="link">Інформація для пацієнтів</a></li>
+					<li><a href="/doctor-info" class="link">Інформація для лікарів</a></li>
+					<li><a href="/norm-base" class="link">Нормативна база</a></li>
+					
+					
+					
+					<li><a href="/vacancy" class="link">Запрошуємо на роботу</a></li>
+					<li><a href="/etic" class="link">Комісія з питань етики</a></li>
+					<li><a href="/announcements" class="link">Оголошення</a></li>
+					<li><a href="/zalishki-likiv" class="link">Державні закупівлі</a></li>
 				</ul>
 			</div>
 
 			<div>
-				<h3 class="f4 b lh-title mb2 primary">Social media</h3>
+				<h3 class="f4 b lh-title mb2 primary">Соцiальнi медia</h3>
 				<ul class="mhn2">
-					{{ partial "social-icon" (dict "link" "#" "svg" "icons-facebook") }}
-					{{ partial "social-icon" (dict "link" "#" "svg" "icons-twitter") }}
+					{{ partial "social-icon" (dict "link" "https://www.facebook.com/strazhesko/" "svg" "icons-facebook") }}
+					{{ partial "social-icon" (dict "link" "#" "svg" "icons-medium") }}
 					{{ partial "social-icon" (dict "link" "#" "svg" "icons-instagram") }}
 					{{ partial "social-icon" (dict "link" "#" "svg" "icons-vimeo") }}
 				</ul>
