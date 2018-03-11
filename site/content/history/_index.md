@@ -1,6 +1,6 @@
 ---
 title: Історія
-image: /img/46757547.jpg
+image: /img/1453806950_1-ekg-elektrokardiogramma-na-domu.jpg
 values:
   - heading: І. становлення (1936-1941)
     imageUrl: /img/стражеско_микола.jpg
