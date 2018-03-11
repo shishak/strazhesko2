@@ -1,6 +1,6 @@
 ---
 title: Відділення
-image: /img/46747477.png
+image: /img/5685785568.png
 heading: Відділення
 description: Відділення
 intro:
