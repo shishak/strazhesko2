@@ -38,7 +38,7 @@ main:
     image: /img/005.jpg
   image3:
     alt: Coffee beans
-    image: /img/products-grid1.jpg
+    image: ''
 testimonials: []
 full_image: /img/006.jpg
 pricing:
