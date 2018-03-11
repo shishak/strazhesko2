@@ -1,6 +1,6 @@
 ---
 title: Відділення
-image: /img/credentialing-1500x430.jpg
+image: /img/46747477.png
 heading: Відділення
 description: Відділення
 intro:
