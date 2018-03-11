@@ -1,6 +1,6 @@
 ---
 title: Історія
-image: /img/mres-trans-cardio-vasc-medicine.jpg
+image: /img/99169062.jpg
 values:
   - heading: І. становлення (1936-1941)
     imageUrl: /img/стражеско_микола.jpg
