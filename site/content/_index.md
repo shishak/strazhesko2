@@ -8,10 +8,10 @@ image: /img/001.jpg
 blurb:
   heading: Why Kaldi?
   text: >-
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    На сайті Ви довідаєтесь про історію, становлення та розвиток нашого
+    інституту, його структуру, про лікувальну та діагностичну роботу
+    підрозділів. Ознайомитесь, над вирішенням яких проблем серцево-судинної
+    патології працюють наші співробітники. 
 intro:
   heading: What we offer
   text: >-
