@@ -1,5 +1,5 @@
 ---
-title: Відділення iнституту
+title: Відділення
 image: /img/003.jpg
 heading: Відділення
 description: Відділення
