@@ -1,6 +1,6 @@
 ---
 title: Відділення
-image: /img/003.jpg
+image: /img/cordiology-medicine.jpg
 heading: Відділення
 description: Відділення
 intro:
