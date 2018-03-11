@@ -1,13 +1,8 @@
 ---
-title: Our Coffee
-type: products
+title: Історія Інституту Кардіології
 image: /img/products-jumbotron.jpg
-heading: What we offer
-description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+heading: Історія Інституту Кардіології
+description: Історія Інституту Кардіології
 intro:
   blurbs:
     - image: /img/illustrations-coffee.svg
@@ -37,12 +32,24 @@ intro:
         space where you can hang out with fellow coffee lovers and learn about
         coffee making techniques. All of the artwork on display there is for
         sale. The full price you pay goes to the artist.
-  heading: What we offer
-  description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+  heading: І. становлення (1936-1941)
+  description: >-
+    ні академіка М.Д. Стражеска» НАМН України починається Постановою Ради
+    народних комісарів УРСР від 10 березня 1936р., коли у місті Києві з
+    ініціативи академіка Миколи Дмитровича Стражеска, під- триманої Президією
+    Академії наук УРСР, засновано Український інститут клінічної медицини,
+    структура і склад якого забезпечували комп- лексну розробку актуальних
+    проблем внутрішньої меди- цини. Першим директором інституту було призначено
+    академіка М.Д. Стражеска. Згідно з постановою прези- дії Київської міськради
+    від 7 грудня 1935 р., для будівництва інституту відве- дена земельна ділянка
+    на Печерську площею 4 га між вулицями Госпітальною, М а л о - Ш и я н і в с
+    ь к о ю та Щорса. 7 листопада 1937 р. пройшла урочиста закладка будівлі
+    головного корпусу та посаджено сад. Будівництво йшло дуже повільно, а у 1938
+    р. зовсім припинилося. За рішенням Раднаркому УРСР до закінчення будівництва
+    інститут розпочав діяльність на базах клінік інших лікувальних закладів: •
+    двох терапевтичних клінік 1-го Київського медичного інституту; • клініки
+    внутрішніх хвороб Київського інституту удосконалення лікарів; • 1-го
+    терапевтичного відділення Лікарні ім. Жовтневої револю-
 main:
   heading: Great coffee with no compromises
   description: >
@@ -98,5 +105,4 @@ pricing:
       plan: Custom
       price: '?'
 ---
-
 
