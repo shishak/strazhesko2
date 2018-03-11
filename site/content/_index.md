@@ -1,44 +1,56 @@
 ---
-title: ШАНОВНІ ПАНІ ТА ПАНОВЕ!
-subtitle: >-
-  Ви зайшли на сайт Державної установи «НАЦІОНАЛЬНИЙ НАУКОВИЙ ЦЕНТР «ІНСТИТУТ
-  КАРДІОЛОГІЇ ІМЕНІ АКАДЕМІКА М.Д. СТРАЖЕСКА» НАЦІОНАЛЬНОЇ АКАДЕМІЇ МЕДИЧНИХ
-  НАУК УКРАЇНИ»
+title: Вiтаемо вас
+subtitle: На сайтi «ДУ ННЦ "Інститут кардіології імені академіка М.Д. Стражеска" НАМНУ»
 image: /img/001.jpg
 blurb:
-  heading: Why Kaldi?
-  text: >-
+  heading: Головне
+  text: >
+    Ви зайшли на сайт «ДУ ННЦ "Інститут кардіології імені академіка М.Д.
+    Стражеска" НАМНУ», який є провідним науковим, лікувальним та організаційно –
+    методичним центром, діяльність якого зосереджена на розв’язанні актуальних
+    проблем кардіології в Україні. 
+
+
     На сайті Ви довідаєтесь про історію, становлення та розвиток нашого
     інституту, його структуру, про лікувальну та діагностичну роботу
     підрозділів. Ознайомитесь, над вирішенням яких проблем серцево-судинної
     патології працюють наші співробітники. 
 intro:
-  heading: What we offer
-  text: >-
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone.
+  heading: ''
+  text: >
+    Запрошуємо Вас до нашого інституту, де Ви можете отримати
+    висококваліфіковану та різнопланову медичну допомогу, уважне та
+    відповідальне ставлення медичного персоналу. В ННЦ працює близько 700 осіб,
+    у тому числі 138 наукових співробітників, серед них: 1 академік НАМН
+    України, 2 член-кореспонденти НАМН України, 24 професори, 41- доктор наук,
+    67- кандидат наук, 89 лікарів. Серед співробітників інституту 5 заслужених
+    діячів науки; 9 заслужених лікарів, 4 заслужених медпрацівників, 8 лауреатів
+    Державної премії України. 
 products:
-  - image: img/illustrations-coffee.svg
+  - image: /img/pam.jpg
     text: >-
-      We sell green and roasted coffee beans that are sourced directly from
-      independent farmers and farm cooperatives. We’re proud to offer a variety
-      of coffee beans grown with great care for the environment and local
-      communities. Check our post or contact us directly for current
-      availability.
-  - image: /img/illustrations-coffee-gear.svg
-    text: >-
-      We offer a small, but carefully curated selection of brewing gear and
-      tools for every taste and experience level. No matter if you roast your
-      own beans or just bought your first french press, you’ll find a gadget to
-      fall in love with in our shop.
+
+      Протягом року стаціонарне лікування отримують понад 8,5 тисяч хворих.
+      Щороку близько 35 тисяч жителів усіх регіонів України мають можливість
+      проконсультуватись у поліклінічному відділенні. 
+
+
+      Про все це ви дізнаєтесь на нашій web-сторінці. 
+
+
+      Приємної та плодотворної Вам праці. 
+  - image: /img/artboard.jpg
+    text: "З повагою,\t\n\nДиректор Державної установи \n«Національний науковий центр «Інститут кардіології імені академіка М.Д. Стражеска» НАМН України», \nПрезидент Асоціації кардіологів України,\nПрезидент Асоціації ревматологів України\nАкадемік НАМН України, \nпрофесор Володимир Миколайович Коваленко"
 values:
-  heading: Our values
+  heading: Історія Інституту Кардіології
   text: >-
-    Coffee is an amazing part of human culture but it has a dark side too – one
-    of colonialism and mindless abuse of natural resources and human lives. We
-    want to turn this around and return the coffee trade to the drink’s
-    exhilarating, empowering and unifying nature.
+    Історія Національного наукового центру «Інститут кардіології іме- ні
+    академіка М.Д. Стражеска» НАМН України починається Постановою Ради народних
+    комісарів УРСР від 10 березня 1936р., коли у місті Києві з ініціативи
+    академіка Миколи Дмитровича Стражеска, під- триманої Президією Академії наук
+    УРСР, засновано Український інститут клінічної медицини, структура і склад
+    якого забезпечували комп- лексну розробку актуальних проблем внутрішньої
+    меди- цини. Першим директором інституту було призначено академіка М.Д.
+    Стражеска.
 ---
 
