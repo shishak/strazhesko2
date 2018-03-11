@@ -1,19 +1,34 @@
 ---
-title: "Contact"
-logo: "/img/logo.svg"
+title: Контакти
+logo: /img/logo.svg
 contact_entries:
   - heading: Location
-    text: "3153 Lynn Avenue, South San Francisco, California 94080"
+    text: '3153 Lynn Avenue, South San Francisco, California 94080'
   - heading: Working hours
-    text: "Monday – Saturday: 9AM – 7PM We’re closed on Sundays"
+    text: 'Monday – Saturday: 9AM – 7PM We’re closed on Sundays'
 ---
+249-70-17 регістратура 
 
-We’d love to get in touch with you and hear your ideas and
-questions. We strive to grow and improve constantly and your feedback
-is valuable for us.
+249-70-26 довідка
 
-<h3 class="f4 b lh-title mb2">How can I get…?</h3>
+<h3 class="f4 b lh-title mb2">АПАРАТ КЕРІВНИЦТВА</h3>
 
-You can also use the form below for any inquiries about coffee
-availability, monthly subscriptions and scheduling a 1-on-1 session
-with our baristas. Don’t be shy, drop us a line!
+
+
+Коваленко Володимир Миколайович 	Директор 	275-66-11, 275-66-22 
+
+ 	Приймальня директора 	275-66-22, факс 275-42-09 
+
+Лутай Михайло Іларіонович 	Заступник директора по науці 	249-70-29 
+
+Корнацький Василь Михайлович 	Головний лікар, заст. директора по клінічній роботі 	275-76-77, 275-04-44 
+
+Сичов Олег Сергійович 	Вчений секретар 	249-70-08 
+
+Гриненко Лариса Петрівна	Заст. директора з економічних питань 	537-36-96 
+
+Сідорко Євгеній Романович 	Заст. директора по АГЧ 	246-87-84 
+
+Костиря Ганна Дмитрівна 	Заст. головного лікаря по стаціонарній допомозі 	249-70-18 
+
+Беляєва Тетяна Володимирівна	Заст. головного лікаря по  поліклініці 	275-34-27
