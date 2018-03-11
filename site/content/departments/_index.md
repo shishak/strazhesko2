@@ -1,5 +1,5 @@
 ---
-title: Відділення
+title: Наукові клінічні відділи
 image: /img/46747477.png
 heading: Відділення
 description: Відділення
