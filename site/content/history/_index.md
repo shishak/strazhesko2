@@ -1,6 +1,6 @@
 ---
 title: Історія наукового центру
-image: /img/46757547.jpg
+image: /img/586799.png
 values:
   - heading: Cтановлення (1936-1941)
     imageUrl: /img/pam.jpg
