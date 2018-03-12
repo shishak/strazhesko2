@@ -22,7 +22,7 @@ main:
     image: /img/005.jpg
   image3:
     alt: Coffee beans
-    image: ''
+    image: /img/heart-health-and-ageing-1108762-twobyone.jpg
 testimonials: []
 full_image: /img/006.jpg
 pricing:
