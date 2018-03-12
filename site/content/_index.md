@@ -3,7 +3,7 @@ title: Шановнi панi i панове
 subtitle: >-
   Ви зайшли на сайт «ДУ ННЦ "Інститут кардіології імені академіка М.Д.
   Стражеска" НАМНУ»
-image: /img/my-heart-flutters-1000x600.jpg
+image: /img/6776547.png
 blurb:
   heading: Про сайт
   text: >-
