@@ -7253,6 +7253,7 @@ svg {
     transition: all 0s ease;
     -webkit-transform: none;
     transform: none;
+    color: #f40;
 }
 
 
