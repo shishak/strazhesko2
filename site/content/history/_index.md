@@ -30,7 +30,7 @@ values:
       інституту було призначено
       академіка М.Д. Стражеска. 
   - heading: Sustainable farming
-    imageUrl: /img/about-sustainable-farming.jpg
+    imageUrl: /img/46757547.jpg
     text: |-
       1941 р. колектив інституту завершив ряд наукових дослі-
       джень, серед яких провідне місце займали праці щодо вивчен-
