@@ -1,6 +1,8 @@
 ---
 title: Контакти
-contact_entries: []
+contact_entries:
+  - heading: tjhrt
+    text: hjtrht
 ---
 249-70-17 регістратура 
 
