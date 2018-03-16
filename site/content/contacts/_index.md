@@ -6,4 +6,4 @@ contact_entries:
 ---
 249-70-17 регістратура 
 
-249-70-26 довідка
+[249-70-26 довідка](https://geektimes.ru/all/page2/)
