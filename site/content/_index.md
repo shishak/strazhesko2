@@ -6,10 +6,8 @@ subtitle: >-
 image: /img/457457.png
 products:
   - image: ''
-    text: '[Пацiенту](erghrg)'
+    links: '[segfsg](sdgfsdf)'
   - image: ''
-    text: Лiкарю
   - image: ''
-    text: Науковцю
 ---
 
