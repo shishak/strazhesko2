@@ -5,6 +5,6 @@ subtitle: >-
   Стражеска" НАМНУ»
 image: /img/457457.png
 link:
-  - links: '[rgsdrgdsfg](sgsdg)'
+  - body: '[o;iggh]([opi)'
 ---
 
