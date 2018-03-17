@@ -45,10 +45,6 @@ collections: # A list of collections the CMS should be able to edit
           - {label: Image, name: image, widget: image}
           
           
-          - {label: "Link", name: link, widget: list, fields: [
-              {label: "Image", name: "image", widget: "image"},
-              {label: "Body", name: "body", widget: "markdown"}]}
-              
 
 
   - name: "events"
