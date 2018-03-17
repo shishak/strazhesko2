@@ -6,7 +6,7 @@ subtitle: >-
 image: /img/457457.png
 products:
   - image: ''
-    text: Пацiенту
+    text: '[Пацiенту](erghrg)'
   - image: ''
     text: Лiкарю
   - image: ''
