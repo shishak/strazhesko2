@@ -54,7 +54,6 @@ collections: # A list of collections the CMS should be able to edit
 
 
   - name: "events"
-    label: "Сторiнки"
     files:
       - file: "site/content/events/_index.md"
         label: "Події"
