@@ -28,17 +28,17 @@ collections: # A list of collections the CMS should be able to edit
         name: "home"
         fields:
           - {label: Title, name: title, widget: string}
-          - {label: Body, name: body, widget: markdown}
-          - label: Contact Entries
-            name: contact_entries
-            widget: list
-            fields:
-              - label: Heading
-                name: heading
-                widget: string
-              - label: Text
-                name: text
-                widget: text
+          - {label: Subtitle, name: subtitle, widget: string}
+          - {label: Image, name: image, widget: image}
+          
+
+          - {label: "Intro", name: intro, widget: object, fields: [
+              {label: "Heading", name: "heading", widget: string},
+              {label: "Text", name: "text", widget: "text"}]}
+              
+          - {label: "Products", name: products, widget: list, fields: [
+              {label: "Image", name: "image", widget: "image"},
+              {label: "Text", name: "text", widget: "text"}]}
               
               
       - file: "site/content/contacts/_index.md"
@@ -64,18 +64,10 @@ collections: # A list of collections the CMS should be able to edit
         name: "departments"
         fields:
           - {label: Title, name: title, widget: string}
+          - {label: Image, name: image, widget: image}
+          - {label: Heading, name: heading, widget: string}
+          - {label: Description, name: description, widget: string}
           - {label: Body, name: body, widget: markdown}
-          - label: Contact Entries
-            name: contact_entries
-            widget: list
-            fields:
-              - label: Heading
-                name: heading
-                widget: string
-              - label: Text
-                name: text
-                widget: text
-          
           
           
       - file: "site/content/history/_index.md"
@@ -83,14 +75,11 @@ collections: # A list of collections the CMS should be able to edit
         name: "history"
         fields:
           - {label: Title, name: title, widget: string}
-          - {label: Body, name: body, widget: markdown}
-          - label: Contact Entries
-            name: contact_entries
+          - {label: Image, name: image, widget: image}
+          - label: Values
+            name: values
             widget: list
             fields:
-              - label: Heading
-                name: heading
-                widget: string
-              - label: Text
-                name: text
-                widget: text
+              - {label: Heading, name: heading, widget: string}
+              - {label: Text, name: text, widget: text}
+              - {label: Image, name: imageUrl, widget: image}
