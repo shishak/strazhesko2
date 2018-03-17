@@ -25,6 +25,13 @@ collections: # A list of collections the CMS should be able to edit
     folder: "site/content/management" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     fields: # The fields each document in this collection have
+    
+              - {label: "Products", name: products, widget: list, fields: [
+              {label: "Image", name: "image", widget: "image"},
+              {label: "Text", name: "text", widget: "text"}]}
+
+    
+    
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Image", name: "image", widget: "image", required: false}
       - {label: "Body", name: "body", widget: "markdown"}
