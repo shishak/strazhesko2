@@ -6,5 +6,6 @@ subtitle: >-
 image: /img/457457.png
 link:
   - body: '[o;iggh]([opi)'
+    image: /img/004.jpg
 ---
 
