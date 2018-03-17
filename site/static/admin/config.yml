@@ -46,6 +46,10 @@ collections: # A list of collections the CMS should be able to edit
       - file: "site/content/contacts/_index.md"
         label: "Контакти"
         name: "contacts"
+        
+        folder: "cont"
+        create: true # Allow users to create new documents in this collection
+
         fields:
           - {label: Title, name: title, widget: string}
           - {label: Body, name: body, widget: markdown}
