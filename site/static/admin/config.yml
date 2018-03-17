@@ -21,6 +21,7 @@ collections: # A list of collections the CMS should be able to edit
       - file: "site/content/_index.md"
         label: "Головна"
         name: "home"
+		create: true
         fields:
           - {label: Title, name: title, widget: string}
           - {label: Subtitle, name: subtitle, widget: string}
@@ -54,7 +55,7 @@ collections: # A list of collections the CMS should be able to edit
                 name: text
                 widget: text
       - file: "site/content/departments/_index.md"
-        label: "Відділення"
+        label: "Керiвництво"
         name: "departments"
         fields:
           - {label: Title, name: title, widget: string}
@@ -62,7 +63,7 @@ collections: # A list of collections the CMS should be able to edit
           - {label: Heading, name: heading, widget: string}
           - {label: Description, name: description, widget: string}
       - file: "site/content/history/_index.md"
-        label: "Історія"
+        label: "Подiї"
         name: "history"
         fields:
           - {label: Title, name: title, widget: string}
