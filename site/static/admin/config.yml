@@ -5,6 +5,8 @@ media_folder: "site/static/img" # Folder where user uploaded files should go
 public_folder: "img"
 
 collections: # A list of collections the CMS should be able to edit
+
+
   - name: "news" # Used in routes, ie.: /admin/collections/:slug/edit
     label: "Новини" # Used in the UI, ie.: "New Post"
     folder: "site/content/news" # The path to the folder where the documents are stored
@@ -15,6 +17,8 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Intro Blurb", name: "description", widget: "text"}
       - {label: "Image", name: "image", widget: "image", required: false}
       - {label: "Body", name: "body", widget: "markdown"}
+      
+      
   - name: "pages"
     label: "Pages"
     files:
@@ -37,6 +41,8 @@ collections: # A list of collections the CMS should be able to edit
           - {label: "Values", name: "values", widget: "object", fields: [
               {label: "Heading", name: "heading", widget: string},
               {label: "Text", name: "text", widget: "text"}]}
+              
+              
       - file: "site/content/contacts/_index.md"
         label: "Контакти"
         name: "contacts"
@@ -54,24 +60,3 @@ collections: # A list of collections the CMS should be able to edit
                 name: text
                 widget: text
                 
-      - file: "site/content/departments/_index.md"
-        label: "Керiвництво"
-        name: "departments"
-        fields:
-          - {label: Title, name: title, widget: string}
-          - {label: Image, name: image, widget: image}    
-		  - {label: Body, name: body, widget: markdown}
-		  
-      - file: "site/content/history/_index.md"
-        label: "Подiї"
-        name: "history"
-        fields:
-          - {label: Title, name: title, widget: string}
-          - {label: Image, name: image, widget: image}
-          - label: Values
-            name: values
-            widget: list
-            fields:
-              - {label: Heading, name: heading, widget: string}
-              - {label: Text, name: text, widget: text}
-              - {label: Image, name: imageUrl, widget: image}
