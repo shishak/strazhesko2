@@ -1,5 +1,7 @@
 ---
-title: Наукові клінічні відділи
-image: /img/46747477.png
+title: Події
+subtitle: Події iнституту
+image: /img/mres-trans-cardio-vasc-medicine.jpg
+products: []
 ---
-[wrge35rgr](asasc)
+
