@@ -21,7 +21,7 @@ collections: # A list of collections the CMS should be able to edit
       
       
   - name: "pages"
-    label: "Pages"
+    label: "Сторiнки"
     files:
       - file: "site/content/_index.md"
         label: "Головна"
@@ -38,9 +38,9 @@ collections: # A list of collections the CMS should be able to edit
               
               
           
-  - name: "departments" # Used in routes, ie.: /admin/collections/:slug/edit
-    label: "departments" # Used in the UI, ie.: "New Post"
-    folder: "site/content/departments" # The path to the folder where the documents are stored
+  - name: "management" # Used in routes, ie.: /admin/collections/:slug/edit
+    label: "Керiвництво" # Used in the UI, ie.: "New Post"
+    folder: "site/content/management" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     fields: # The fields each document in this collection have
       - {label: "Title", name: "title", widget: "string"}
