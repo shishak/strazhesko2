@@ -53,14 +53,15 @@ collections: # A list of collections the CMS should be able to edit
               - label: Text
                 name: text
                 widget: text
+                
       - file: "site/content/departments/_index.md"
         label: "Керiвництво"
         name: "departments"
         fields:
           - {label: Title, name: title, widget: string}
-          - {label: Image, name: image, widget: image}
-          - {label: Heading, name: heading, widget: string}
-          - {label: Description, name: description, widget: string}
+          - {label: Image, name: image, widget: image}    
+		  - {label: Body, name: body, widget: markdown}
+		  
       - file: "site/content/history/_index.md"
         label: "Подiї"
         name: "history"
