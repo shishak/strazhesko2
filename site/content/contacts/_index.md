@@ -3,6 +3,10 @@ title: Контакти
 contact_entries:
   - heading: tjhrt
     text: hjtrht
+  - heading: af
+    text: ewqfef
+  - heading: wfef
+    text: wefwe
 ---
 249-70-17 регістратура 
 
