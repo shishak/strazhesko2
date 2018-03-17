@@ -1,74 +1,13 @@
 {{ define "main" }}
 
-<div class="pv5 pv6-l ph3 bg-center cover" style="background-image: url('{{.imageUrl}}')">
-  <div class="mw7 center ph3">
-    <div class="db mb3">
-      <div class="mw7 relative bg-fix-primary mb3">
-        <h1 class="f2 f1-l b di lh-title mb3 white mw6 bg-primary">
-          {{.title}}
-        </h1>
-      </div>
-      <div class="mw7 relative bg-fix-primary">
-        {{ if .subtitle }}
-        <p class="b f4 di lh-title mb3 white mw6 bg-primary">
-          {{.subtitle}}
-        </p>
-        {{ end }}
-      </div>
-    </div>
-  </div>
-</div>
+{{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title "subtitle" .Params.subtitle) }}
 
+{{ partial "short-text" .Params.blurb}}
 
-<div class="bg-grey-1 pv4">
-  <div class="flex-l mhn1-l ph3 center mw7">
-    <h2 class="f2 b lh-title mb2 w-40-l">{{.heading}}</h2>
-    <p class="w-60-l mb0">{{.text}}</p>
-  </div>
-</div>
+{{ partial "2-up" .Params }}
 
+<!-- {{ partial "text-and-image" (dict "heading" .Params.values.heading "text" .Params.values.text "buttonText" "IСТОРIЯ IНСТИТУТУ" "buttonLink" "/history") }} -->
 
-<div class="bg-off-white pv4">
-  <div class="ph3 mw7 center">
-    <h2 class="f2 b lh-title mb2">{{.intro.heading}}</h2>
-    <p class="mb4 mw6">{{.intro.text}}</p>
-
-    <div class="flex-ns mhn2-ns mb3">
-      {{ range .products }}
-      <div class="ph2-ns w-50-ns">
-        <img src="{{.image}}" alt="" class="center db mb3" style="width: 240px">
-        <p>{{.text}}</p>
-      </div>
-      {{ end }}
-    </div>
-
-    <div class="tc">
-      <a href="/departments" class="btn raise">ЧИТАТИ ДАЛI</a>
-    </div>
-  </div>
-</div>
-
-
-
-<div class="bg-off-white pv4">
-	<div class="ph3 mw7 center">
-
-		<h2 class="f2 b lh-title mb3">Новини</h1>
-
-		<div class="w-100 flex-ns mhn1-ns flex-wrap mb3">
-			{{ range first 4 (where .Data.Pages "Type" "news") }}
-				<div class="ph1-ns w-50-ns flex">
-					{{ .Render "li" }}
-				</div>
-			{{ end }}
-		</div>
-
-		<div class="tc">
-			<a href="/news" class="btn raise">ДИВИТИСЬ IНЬШИ НОВИНИ</a>
-		</div>
-
-	</div>
-</div>
-
+{{ partial "blog" . }}
 
 {{ end }}
