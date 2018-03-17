@@ -41,23 +41,6 @@ collections: # A list of collections the CMS should be able to edit
               {label: "Text", name: "text", widget: "text"}]}
               
               
-      - file: "site/content/contacts/_index.md"
-        label: "Контакти"
-        name: "contacts"
-        fields:
-          - {label: Title, name: title, widget: string}
-          - {label: Body, name: body, widget: markdown}
-          - label: Contact Entries
-            name: contact_entries
-            widget: list
-            fields:
-              - label: Heading
-                name: heading
-                widget: string
-              - label: Text
-                name: text
-                widget: text
-                
                 
       - file: "site/content/departments/_index.md"
         label: "Відділення"
@@ -68,16 +51,3 @@ collections: # A list of collections the CMS should be able to edit
           - {label: Body, name: body, widget: markdown}
           
           
-      - file: "site/content/history/_index.md"
-        label: "Історія"
-        name: "history"
-        fields:
-          - {label: Title, name: title, widget: string}
-          - {label: Image, name: image, widget: image}
-          - label: Values
-            name: values
-            widget: list
-            fields:
-              - {label: Heading, name: heading, widget: string}
-              - {label: Text, name: text, widget: text}
-              - {label: Image, name: imageUrl, widget: image}
