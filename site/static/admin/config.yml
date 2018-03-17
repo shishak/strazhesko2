@@ -19,6 +19,21 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Body", name: "body", widget: "markdown"}
       
       
+              
+          
+  - name: "management" # Used in routes, ie.: /admin/collections/:slug/edit
+    label: "Керiвництво" # Used in the UI, ie.: "New Post"
+    folder: "site/content/management" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    fields: # The fields each document in this collection have
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Intro Blurb", name: "description", widget: "text"}
+      - {label: "Image", name: "image", widget: "image", required: false}
+      - {label: "Body", name: "body", widget: "markdown"}
+              
+
+
       
   - name: "pages"
     label: "Сторiнки"
@@ -36,18 +51,21 @@ collections: # A list of collections the CMS should be able to edit
               {label: "Image", name: "image", widget: "image"},
               {label: "Text", name: "text", widget: "text"}]}
               
-              
+
+
+  - name: "events"
+    label: "Сторiнки"
+    files:
+      - file: "site/content/events/_index.md"
+        label: "Події"
+        name: "events"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Subtitle, name: subtitle, widget: string}
+          - {label: Image, name: image, widget: image}
           
-  - name: "management" # Used in routes, ie.: /admin/collections/:slug/edit
-    label: "Керiвництво" # Used in the UI, ie.: "New Post"
-    folder: "site/content/management" # The path to the folder where the documents are stored
-    create: true # Allow users to create new documents in this collection
-    fields: # The fields each document in this collection have
-      - {label: "Title", name: "title", widget: "string"}
-      - {label: "Publish Date", name: "date", widget: "datetime"}
-      - {label: "Intro Blurb", name: "description", widget: "text"}
-      - {label: "Image", name: "image", widget: "image", required: false}
-      - {label: "Body", name: "body", widget: "markdown"}
+          
+          - {label: "Products", name: products, widget: list, fields: [
+              {label: "Image", name: "image", widget: "image"},
+              {label: "Text", name: "text", widget: "text"}]}
               
-
-
